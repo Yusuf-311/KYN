@@ -17,7 +17,7 @@ export default function Home() {
             resources. Join us in building a stronger community.
           </p>
           <button class="mt-6 rounded-lg bg-blue-600 px-5 py-2 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">
-            Get Started
+            Get Started now
           </button>
         </div>
 
